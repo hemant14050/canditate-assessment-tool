@@ -1,7 +1,7 @@
 # Welcome to the HR Assessment Tool, a web application designed to assist HR professionals in easily assessing candidates for employment.
 
 # Features
-* Admin: Admins have the ability to add, view, and delete HR users.
+** Admin: Admins have the ability to add, view, and delete HR users.
 ## HR: 
 > HR users can add jobs and specify the required qualities and personalities for each job. They can also create and assign tests to candidates.
 ## Candidate: 
