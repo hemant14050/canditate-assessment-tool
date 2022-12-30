@@ -14,5 +14,5 @@
 * Candidate
 > As a candidate, you can take the OCEAN personality test as part of the assessment process. Your results will be used by HR to determine if you are a good fit for the job.
 
-* Contributing
+# Contributing
 > We welcome contributions to the HR Assessment Tool. If you would like to contribute, please fork the repository and submit a pull request.
